@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1626815657391.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1787552435",
+    "id" : "3E639A54",
+    "lastKnownWriteTime" : 1626992472,
+    "last_content_update" : 1626992472,
+    "path" : "~/Curso_machine_learning/Introduccion_R/Scripts/Funciones_y_estructuras.R",
+    "project_path" : "Scripts/Funciones_y_estructuras.R",
+    "properties" : {
+        "cursorPosition" : "119,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

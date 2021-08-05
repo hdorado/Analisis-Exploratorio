@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1627327262873.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "682524323",
+    "id" : "3606332F",
+    "lastKnownWriteTime" : 1627330863,
+    "last_content_update" : 1627330863480,
+    "path" : "~/Curso_machine_learning/Introduccion_R/Scripts/Lectura_de_datos.R",
+    "project_path" : "Scripts/Lectura_de_datos.R",
+    "properties" : {
+        "cursorPosition" : "89,0",
+        "scrollLine" : "73",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

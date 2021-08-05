@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1626981768926.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "588943949",
+    "id" : "2569A40A",
+    "lastKnownWriteTime" : 1627331501,
+    "last_content_update" : 1627331501455,
+    "path" : "~/Curso_machine_learning/Introduccion_R/Scripts/Ruleta.R",
+    "project_path" : "Scripts/Ruleta.R",
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
